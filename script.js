@@ -98,4 +98,4 @@ button.addEventListener('click', requestSize);
 clearButton.addEventListener('click', clearGrid);
 randomButton.addEventListener('click', randomMode);
 
-changeSize(5);
+changeSize(16);
